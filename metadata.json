@@ -1,0 +1,10 @@
+{
+  "name": "AI Career Roadmap Generator & Placement Mentor",
+  "description": "An interactive full-stack career planner, skill gap analyzer, placement readiness engine, resume optimizer, and AI-powered interview tutor with customizable Angular/Spring Boot codebase templates.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
